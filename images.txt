@@ -1,8 +1,6 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-acgpiano/sqli-labs:latest
-pch18/baota:latest
+tabledevil/kaspersky:latest
+
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
